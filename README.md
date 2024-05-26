@@ -1,6 +1,6 @@
 # school_projet1 
 
-Explication du contexte du projet 1 à la Wild Code School :
+**Explication du contexte du projet 1 à la Wild Code School** :
 
 Une entreprise de modèles réduits et de maquettes de vehicules à besoin de nos services afin d'avoir un tableau de bord qu'il pourrait actualiser tout les jours, 
 pour avoir les dernières informations afin de gérer l'entreprise.
