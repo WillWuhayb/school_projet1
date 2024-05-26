@@ -19,3 +19,8 @@ Plusieurs KPI's sont demandés :
 
 2ème étape :
  - importation des nouvelles données travaillé precedemment sur SQL afin de réaliser la data vizualisation sur Power BI.
+
+
+2 fichiers sont télécharger :
+- un contenant les codes SQL
+- un contenant la partie POWER BI
